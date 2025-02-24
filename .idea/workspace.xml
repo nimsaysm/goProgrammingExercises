@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46e96d0e-c835-432c-9274-04a6a04d837e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/goProgrammingExercises.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/goProgrammingExercises.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmd/exercises/exercises_runner.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/exercises/exercises_runner.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,27 +41,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
-    &quot;Go Build.go build github.com/nimsaysm/goProgrammingExercises.executor&quot;: &quot;Debug&quot;,
-    &quot;Go Build.go build github.com/nimsaysm/goProgrammingExercises/cmd/exercises.executor&quot;: &quot;Debug&quot;,
-    &quot;Go Test.go test goProgrammingExercises.executor&quot;: &quot;Debug&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;chapter-03&quot;,
-    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
-    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/yasmin&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultGoTemplateProperty": "Go File",
+    "Go Build.go build github.com/nimsaysm/goProgrammingExercises.executor": "Debug",
+    "Go Build.go build github.com/nimsaysm/goProgrammingExercises/cmd/exercises.executor": "Debug",
+    "Go Test.go test goProgrammingExercises.executor": "Debug",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "git-widget-placeholder": "main",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "/home/yasmin",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
+}]]></component>
   <component name="RdControllerToolWindowsLayoutState" isNewUi="true">
     <layout>
       <window_info id="Bookmarks" side_tool="true" />
@@ -69,21 +69,21 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5007837" weight="0.33025682" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5007837" visible="true" weight="0.32994792" />
       <window_info id="Commit" order="1" weight="0.32994792" />
       <window_info id="Structure" order="2" sideWeight="0.49921632" side_tool="true" weight="0.32994792" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="TypeScript" />
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="File Transfer" />
-      <window_info anchor="bottom" id="Find" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" weight="0.28900445" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.3304" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.32994187" />
-      <window_info anchor="bottom" id="Run" order="5" weight="0.28900445" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.32994187" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.49554235" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.49554235" />
       <window_info anchor="bottom" id="Services" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.33010432" />
       <window_info anchor="right" id="Endpoints" />
       <window_info anchor="right" id="make" side_tool="true" />
       <window_info anchor="right" id="Coverage" side_tool="true" />
@@ -138,11 +138,12 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-gosdk-2f6e6cc45a70-76709e8e2002-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-251.17181.28" />
-        <option value="bundled-js-predefined-d6986cc7102b-b81319f9767f-JavaScript-GO-251.17181.28" />
+        <option value="bundled-gosdk-d297c17c1fbd-57c114c3cede-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-243.24978.59" />
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-GO-243.24978.59" />
       </set>
     </attachedChunks>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="46e96d0e-c835-432c-9274-04a6a04d837e" name="Changes" comment="" />
