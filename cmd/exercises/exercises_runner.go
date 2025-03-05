@@ -7,6 +7,7 @@ import (
 	"github.com/nimsaysm/goProgrammingExercises/internal/chapter03"
 	"github.com/nimsaysm/goProgrammingExercises/internal/chapter04"
 	"github.com/nimsaysm/goProgrammingExercises/internal/chapter05"
+	"github.com/nimsaysm/goProgrammingExercises/internal/chapter06"
 )
 
 func RunExercises() {
@@ -24,6 +25,8 @@ func RunExercises() {
 		chapter04.Runner()
 	case 5:
 		chapter05.Runner()
+	case 6:
+		chapter06.Runner()
 	default:
 		fmt.Println("The chapter does not exist.")
 	}

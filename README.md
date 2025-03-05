@@ -7,3 +7,4 @@ This repository was created to practice exercises suggested in The Go Programmin
 - [Chapter 03](internal/chapter03)
 - [Chapter 04](internal/chapter04)
 - [Chapter 05](internal/chapter05)
+- [Chapter 06](internal/chapter06)
